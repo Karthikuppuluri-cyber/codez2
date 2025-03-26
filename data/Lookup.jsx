@@ -2,7 +2,7 @@ import dedent from "dedent";
 
 export default {
   SUGGSTIONS: ['Create ToDo App in React', 'Create Full Stack Finance  App', 'Create Gym Managment Portal Dashboard', 'Create Quizz App On History', 'Create Login Signup Screen'],
-  HERO_HEADING: 'What do you want to build? with DaaP AI Coder',
+  HERO_HEADING: 'Build anything with DaaP AI Coder',
   HERO_DESC: 'Prompt, run, edit, and deploy full-stack web apps.',
   INPUT_PLACEHOLDER: 'What you want to build with DaaP AI Coder today ',
   SIGNIN_HEADING: 'Continue to DaaP AI Coder',
