@@ -1,13 +1,13 @@
 import dedent from "dedent";
 
 export default {
-  SUGGSTIONS: ['Create ToDo App in React', 'Create Budget Track App', 'Create Gym Managment Portal Dashboard', 'Create Quizz App On History', 'Create Login Signup Screen'],
-  HERO_HEADING: 'What do you want to build?',
+  SUGGSTIONS: ['Create ToDo App in React', 'Create Full Stack Finance  App', 'Create Gym Managment Portal Dashboard', 'Create Quizz App On History', 'Create Login Signup Screen'],
+  HERO_HEADING: 'What do you want to build? with DaaP AI Coder',
   HERO_DESC: 'Prompt, run, edit, and deploy full-stack web apps.',
-  INPUT_PLACEHOLDER: 'What you want to build?',
-  SIGNIN_HEADING: 'Continue With Bolt.New 2.0',
-  SIGNIN_SUBHEADING: 'To use Bolt you must log into an existing account or create one.',
-  SIGNIn_AGREEMENT_TEXT: 'By using Bolt, you agree to the collection of usage data for analytics.',
+  INPUT_PLACEHOLDER: 'What you want to build with DaaP AI Coder today ',
+  SIGNIN_HEADING: 'Continue to DaaP AI Coder',
+  SIGNIN_SUBHEADING: 'To use DaaP AI Coder you must log into an existing account or create one.',
+  SIGNIn_AGREEMENT_TEXT: 'By using DaaP AI Coder , you agree to the collection of usage data for analytics.',
 
 
   DEFAULT_FILE: {
@@ -85,21 +85,21 @@ export default config;
       name:'Starter',
       tokens:'120K',
       value:120000,
-      desc:'Designed for professionals who need to use Bolt a few times per week.',
+      desc:'Designed for professionals who need to use DaaP ai builder a few times per week.',
       price:9.99
     },
     {
       name:'Pro',
       tokens:'2.5M',
       value:2500000,
-      desc:'Designed for professionals who need to use Bolt a few times per week.',
+      desc:'Designed for professionals who need to use DaaP ai builder a few times per week.',
       price:19.99
     },
     {
       name:'Unlimted (License)',
       tokens:'Unmited',
       value:999999999,
-      desc:'Designed for professionals who need to use Bolt a few times per week.',
+      desc:'Designed for professionals who need to use DaaP ai builder a few times per week.',
       price:49.99
     }
   ]
